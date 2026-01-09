@@ -40,7 +40,6 @@ font-size: 16px;
 font-weight: 600;
 color:#fff;
 transition:.5s;
-
 }
 .nav-btn button:hover{
 color:black;
@@ -221,7 +220,7 @@ header{
 }
 .chalange-container .hero-button{
  margin-bottom:16px ;
- margin-top: 24px;
+ margin-top: 26px;
 }
 .chalange-container .hero-button:hover{
     color:black;
