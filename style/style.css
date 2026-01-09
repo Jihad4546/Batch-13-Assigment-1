@@ -34,7 +34,7 @@ color:#f82d2d}
 .nav-btn button{
 padding: 12px 16px ;
 background: #469165;
-border:none;
+border: 1px solid #469165;  
 border-radius: 4px;
 font-size: 16px;
 font-weight: 600;
@@ -85,7 +85,7 @@ header{
     margin-top: 16px;
     line-height:30px;
 }
-.hero-section .hero-button{
+.hero-button{
     padding: 12px 16px;
     background: #469165;
     color:#fff;
@@ -202,4 +202,63 @@ header{
     font-size: 16px;
     color:#001931;
     margin: 8px 0 ;
+}
+.chalange-container{
+    background: #FBFBFB;
+    text-align: center;
+    margin-top: 120px;
+}
+.chalange-container h2{
+    font-size: 40px;
+    color:#001931;
+    padding-top: 80px;
+    margin-bottom: 16px;
+}
+.chalange-container p{
+    font-size: 16px;
+    color:#627382;
+    padding-bottom:16px;
+}
+.chalange-container .hero-button{
+ margin-bottom:16px ;
+ margin-top: 24px;
+}
+.chalange-container .hero-button:hover{
+    color:black;
+}
+.chalange-container h3{
+    color:#627382;
+    font-size: 16px;
+    padding-bottom: 80px;
+}
+footer{
+background:#001931;
+margin-top: 120px;
+}
+.footer-container{
+    display: flex;
+justify-content: space-between;
+padding-top: 120px;
+}
+.footer-container h2{
+    color:white;
+    font-size: 20px;
+}
+.footer-container i{
+    color:white;
+    font-size: 20px;
+    margin-top: 16px;
+    
+}
+hr{
+    width: 85%;
+    margin: 0 auto;
+    margin-top: 84px;
+    margin-bottom: 32px;
+}
+footer p{
+    color:#FAFAFA;
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 20px;
 }
