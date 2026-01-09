@@ -170,3 +170,36 @@ header{
     color:#627382;
     padding-bottom: 20px;
 }
+.solution-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.solution-section .side-img{
+    width: 600px;
+    height: 600px;
+    border-radius: 12px;
+    margin-top: 120px;
+}
+.img-sidever span{
+    color:#469165;
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+.img-sidever h2{
+    font-size: 48px;
+    font-weight: 800;
+    margin-bottom: 16px;
+}
+.img-sidever p{
+    font-size: 16px;
+    color:#627382;
+    line-height: 25px;
+    margin-bottom: 16px;
+    
+}
+.click div{
+    font-size: 16px;
+    color:#001931;
+    margin: 8px 0 ;
+}
